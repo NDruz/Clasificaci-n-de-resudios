@@ -11,7 +11,7 @@ Sistema de detección y clasificación de residuos utilizando inteligencia artif
 ## **Dataset**
 Dataset con 3634 imagenes, clasificadas en 9 clases distintas de resudios respectivamente etiquetadas
 
-[Enlace de descarga](https://drive.google.com/file/d/19PtZY-k_OI1aX5dT7vGpF1HUrUhj_bkx/view?usp=drive_link).
+[Enlace de descarga](https://drive.google.com/drive/folders/1NNipl4H2t2WYa7hBJTlAvNAJAOG0YFux?usp=drive_link).
 
 Otros datasets utilizados:
 - https://github.com/garythung/trashnet
