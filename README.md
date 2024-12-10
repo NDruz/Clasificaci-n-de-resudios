@@ -27,6 +27,6 @@ Otros datasets utilizados:
 
 ## **Enlaces**
 - [Código](https://colab.research.google.com/drive/1ef_FIghwPs7OAXwWwIUETVRuCg2SRnGS#scrollTo=cge2NBbo0iVk)
-- [Video]()
+- [Video](https://youtu.be/6HLw5H6IT74)
 - [Repositorio](https://github.com/NDruz/Clasificacion-de-resudios)
 
