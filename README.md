@@ -23,6 +23,7 @@ Otros datasets utilizados:
 - Decision Tree
 - Random Forest Classifier
 - Support Vector Classifier
+- Redes Neuronales Convolucionales 
 
 ## **Enlaces**
 - [Código](https://colab.research.google.com/drive/1ef_FIghwPs7OAXwWwIUETVRuCg2SRnGS#scrollTo=cge2NBbo0iVk)
