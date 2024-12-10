@@ -23,8 +23,7 @@ Otros datasets utilizados:
 - Support Vector Classifier
 
 ## **Enlaces**
-- [Código](https://enlace-a-tu-codigo.com)
-- [Video](https://enlace-a-tu-video.com)
+- [Código](https://colab.research.google.com/drive/1ef_FIghwPs7OAXwWwIUETVRuCg2SRnGS#scrollTo=cge2NBbo0iVk)
+- [Video]()
 - [Repositorio](https://github.com/NDruz/Clasificacion-de-resudios)
 
-I can't believe today was a good day.
