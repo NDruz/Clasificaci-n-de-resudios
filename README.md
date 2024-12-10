@@ -9,7 +9,7 @@ Andrés Felipe Jaimes Ojeda, Anderson Yair Lemus , Hammer Ronaldo Muñoz Hernand
 Sistema de detección y clasificación de residuos utilizando inteligencia artificial
 
 ## **Dataset**
-Dataset con 3635 imagenes clasificadas en 9 clases distintas de resudios respectivamente etiquetadas
+Dataset con 3634 imagenes, clasificadas en 9 clases distintas de resudios respectivamente etiquetadas
 
 [Enlace de descarga](https://drive.google.com/file/d/19PtZY-k_OI1aX5dT7vGpF1HUrUhj_bkx/view?usp=drive_link).
 
