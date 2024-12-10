@@ -9,7 +9,7 @@ Andrés Felipe Jaimes Ojeda, Anderson Yair Lemus , Hammer Ronaldo Muñoz Hernand
 Sistema de detección y clasificación de residuos utilizando inteligencia artificial
 
 ## **Dataset**
-Descripción breve del dataset utilizado con el [enlace de descarga]().
+Descripción breve del dataset utilizado con el [enlace de descarga](https://drive.google.com/file/d/19PtZY-k_OI1aX5dT7vGpF1HUrUhj_bkx/view?usp=drive_link).
 
 Otros datasets utilizados:
 - https://github.com/garythung/trashnet
