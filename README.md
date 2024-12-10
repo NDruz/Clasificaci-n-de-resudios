@@ -20,4 +20,4 @@ Descripción breve del dataset utilizado con el [enlace de descarga]().
 ## **Enlaces**
 - [Código](https://enlace-a-tu-codigo.com)
 - [Video](https://enlace-a-tu-video.com)
-- [Repositorio](https://enlace-a-tu-repositorio.com)
+- [Repositorio](https://github.com/NDruz/Clasificacion-de-resudios)
