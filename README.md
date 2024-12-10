@@ -10,6 +10,10 @@ Sistema de detección y clasificación de residuos utilizando inteligencia artif
 
 ## **Dataset**
 Descripción breve del dataset utilizado con el [enlace de descarga]().
+Otros datasets utilizados:
+- https://github.com/garythung/trashnet
+- https://github.com/pedropro/TACO
+- https://www.immersivelimit.com/datasets/cigarette-butts
 
 ## **Modelos**
 - GaussianNB
