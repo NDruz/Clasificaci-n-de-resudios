@@ -3,7 +3,7 @@
 ![Banner del Proyecto](/Banner.jpg) 
 
 ## **Autores**
-Andrés Felipe Jaimes Ojeda, Anderson Yair Lemus , Hammer Ronaldo Muñoz Hernandez
+Andrés Felipe Jaimes Ojeda, Anderson Jahir Lemus Ramírez , Hammer Ronaldo Muñoz Hernandez
 
 ## **Objetivo**
 Sistema de detección y clasificación de residuos utilizando inteligencia artificial
